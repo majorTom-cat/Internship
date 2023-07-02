@@ -1,0 +1,26 @@
+[
+	{
+		"scm": "11st",
+		"settlement_no": "11",
+		"settlement_amount": "500000",
+		"settlement_date": "2023-01-01 10:00:00",
+		"seller_info": {
+			"name": "이셀러",
+			"business_number": "112-1911",
+			"bank_name": "기업은행",
+			"bank_account": "544-1566"
+		}
+	},
+	{
+		"scm": "11st",
+		"settlement_no": "12",
+		"settlement_amount": "1200000",
+		"settlement_date": "2023-02-01 10:00:00",
+		"seller_info": {
+			"name": "이셀러",
+			"business_number": "112-1911",
+			"bank_name": "기업은행",
+			"bank_account": "544-1566"
+		}
+	}
+]

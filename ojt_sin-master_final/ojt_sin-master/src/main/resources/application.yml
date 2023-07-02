@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://222.122.235.25:3306/ojt1?serverTimezone=Asia/Seoul
+    username: allraOjt
+    password: "@AllraOjt123"
+  jpa:
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
+    properties:
+      hibernate.format_sql: true
+  mvc:
+    view:
+      prefix: /WEB-INF
+      suffix: .jsp  

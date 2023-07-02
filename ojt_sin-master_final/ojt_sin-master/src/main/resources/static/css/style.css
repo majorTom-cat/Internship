@@ -1,0 +1,32 @@
+body {
+   	background-color: black;
+   	color: white;
+}
+
+.div_view_scm_table {
+	margin: 30px 0 0 0;
+}   
+    	
+.view_scm_table {
+	text-align: center;
+	margin: 0 auto 0 auto;
+}
+
+.application_input {
+	text-align: right;
+}
+
+.h2_view_scm {
+	text-align: center;
+}
+
+/* adminpage --------------------------------------------------------------------------------------*/
+.approve_gray {
+	background-color: gray;
+}
+.approve_red {
+	background-color: red;
+}
+.approve_green {
+	background-color: green;
+}
